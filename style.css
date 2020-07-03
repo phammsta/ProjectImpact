@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @charset "UTF-8";
 /*!
 * Start Bootstrap - Grayscale v6.0.2 (https://startbootstrap.com/themes/grayscale)
@@ -10364,3 +10365,53 @@ body {
 .footer {
   padding: 5rem 0;
 }
+=======
+.logo-style{
+    height:40px;
+    width:40px;
+    border-radius:20px;
+    
+}
+.nav1{
+    background-color:red;
+}
+.div1{
+    background-image: linear-gradient(185deg,#bc2727 0%,#f45c43 58%)!important;
+    text-align:center;
+    color:white;
+}
+.h1_1{
+    font-size:45px;
+}
+.p1{
+    font-size:15px;
+}
+
+.btn1{
+    border-radius:20px;
+    width: 300px; 
+}
+.btn2{
+    margin-left:50px;
+    background:#ba2727;
+    border: 1px solid #ba2727;
+}
+.btn22{
+    margin-right:50px;
+    background:#ba2727;
+    border: 1px solid #ba2727;
+}
+
+.jumbotron-div1 {
+    /* height: 800px; */
+    background-color: rgb(113, 198, 238);
+    background: linear-gradient(rgb(76, 230, 76) -60%,white 140%);
+    background: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      color-stop(-60%, rgb(76, 230, 76)),
+      color-stop(140%, white)
+    );
+  }
+>>>>>>> 79bf1a816115c96fb46e14cfc5b31c4aa8ae9437
