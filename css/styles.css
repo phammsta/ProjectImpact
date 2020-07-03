@@ -10364,3 +10364,10 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+.color-about-us{
+  font-weight: bold;
+  font-size:30px;
+  color: aquamarine;
+  
+}
