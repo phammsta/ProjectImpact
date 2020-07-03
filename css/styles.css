@@ -10373,5 +10373,12 @@ body {
   font-weight: bold;
   font-size:30px;
   color: aquamarine;
+  text-align: center;
   
+}
+
+.color-main-page{
+  font-weight: bold;
+  font-size:20px;
+  color:aquamarine
 }
