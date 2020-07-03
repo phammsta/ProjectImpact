@@ -1,11 +1,10 @@
-<<<<<<< HEAD
+
 .container{
 
     align-items: center;
     justify-content: center;
 }
-=======
-<<<<<<< HEAD
+
 @charset "UTF-8";
 /*!
 * Start Bootstrap - Grayscale v6.0.2 (https://startbootstrap.com/themes/grayscale)
@@ -10372,7 +10371,7 @@ body {
 .footer {
   padding: 5rem 0;
 }
-=======
+
 .logo-style{
     height:40px;
     width:40px;
@@ -10421,5 +10420,3 @@ body {
       color-stop(140%, white)
     );
   }
->>>>>>> 79bf1a816115c96fb46e14cfc5b31c4aa8ae9437
->>>>>>> cced65ed525d0855d58aa788fe4f45f06777dfb7
